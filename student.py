@@ -6,3 +6,5 @@ course =input("Enter course: ")
 
 print("Student Name:", name)
 print("Course:", course)
+
+print("Program completed Successfully")
